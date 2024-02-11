@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Lock files
+package-lock.json
+
+# Environment variables
+.env
